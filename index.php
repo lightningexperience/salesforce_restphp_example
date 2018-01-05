@@ -12,9 +12,9 @@ Freely reusable with no restrictions
 ************************************************************************************/
 
 // You need to set these three to the values for your own application
-define('CONSUMER_KEY', '');
-define('CONSUMER_SECRET', '');
-define('REDIRECT_URI', 'https://Your site here!/salesforce_restphp_example/index.php');
+define('CONSUMER_KEY', '3MVG9xOCXq4ID1uE0MRhgm7ZNA._jS3YgFoIDPY2HFqaNKftS8LJovQ6ro0E3b.yXQmELANJDnxfZhlSvqSEK');
+define('CONSUMER_SECRET', '8483951908878986038');
+define('REDIRECT_URI', 'https://phprest001.herokuapp.com/');
 
 define('LOGIN_BASE_URL', 'https://login.salesforce.com');
 
